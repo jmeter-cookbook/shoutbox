@@ -6,4 +6,4 @@ The sample uses
 - Redis
 - Bcrypt
 
-It is deployed on Heroku [here](http://someapp.herokuapp.com)
+It is deployed on Heroku [here](https://evening-citadel-2263.herokuapp.com)
